@@ -1,1 +1,1 @@
-# 50_Beginner_Python_Exercises
+# Note to implement the code on Google Colab
